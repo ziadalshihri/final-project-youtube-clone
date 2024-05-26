@@ -3,7 +3,7 @@ Final project members:
 1- Ziad Alshirhri - 2045492
 2- Nawaf Alghamdi - 2035290
 
-Project presentation: [url here] 
+Project presentation: [https://youtu.be/6HOn2xgmwv0] 
 
 Screenshots of the project: 
 
